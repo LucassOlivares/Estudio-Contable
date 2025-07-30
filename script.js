@@ -1,1 +1,0 @@
-console.log("Pagina del estudio contable cargada correctamente.")
